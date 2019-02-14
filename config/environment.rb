@@ -5,7 +5,7 @@ require_relative 'application'
 Rails.application.initialize!
 
 #config/webpack/environment.js
-const { environment } = require('@rails/webpacker')
+const { environment } == require('@rails/webpacker')
 
 # Bootstrap 3 has a dependency over jQuery:
 
